@@ -2,6 +2,9 @@ package com.example.contactview;
 
 import java.util.Comparator;
 
+/**
+ * 按照字母进行排序
+ */
 public class ContactComparator  implements Comparator<String> {
 
     @Override
